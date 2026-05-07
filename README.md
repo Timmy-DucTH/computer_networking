@@ -1,4 +1,4 @@
-# computer_networking
+# Computer Networking
 
 IT005 at UIT, for anyone who needs it  
 Theory files are in the GG Drive link below 👇  
